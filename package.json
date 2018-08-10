@@ -48,7 +48,7 @@
   "dependencies": {
     "@types/bunyan": "^1.8.0",
     "async": "^2.5.0",
-    "graphql-subscriptions": "^0.4.4",
+    "graphql-subscriptions": "^0.5.8",
     "rabbitmq-pub-sub": "^0.2.5"
   },
   "devDependencies": {
@@ -73,7 +73,7 @@
     "@cdm-logger/server": "^3.0.2",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
-    "graphql": "^0.10.5",   
+    "graphql": "^0.13.1",   
     "istanbul": "1.0.0-alpha.2",
     "mocha": "^3.0.0",
     "remap-istanbul": "^0.8.4",
